@@ -1,6 +1,12 @@
 {
+    "scm.diffDecorations": "all",
     "scm.diffDecorationsGutterPattern": {
-        "added": true
+        "added": true,
+        "modified": true
     },
-    "scm.diffDecorationsGutterWidth": 5
+    "scm.diffDecorationsGutterWidth": 5,
+    "workbench.colorCustomizations": {
+        "editorGutter.modifiedBackground": "#1ba856"
+    },
+    "json.schemas": [],
 }
